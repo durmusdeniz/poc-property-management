@@ -9,8 +9,10 @@ The application uses RDBMS as backend, and uses a single table. Before attemptin
 > src/main/resources/application.properties
 
 > spring.datasource.url
-spring.datasource.username
-spring.datasource.password
+
+> spring.datasource.username
+
+> spring.datasource.password
 
 Once your database is ready, you can create the table with the query below:
 
